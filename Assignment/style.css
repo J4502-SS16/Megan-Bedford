@@ -26,7 +26,7 @@ h1{
  }
 
  #sidebar{
- background-color:  #ddd;*/
+ background-color:  #ddd;
  width:200px;
  float:right;
  }
@@ -59,7 +59,7 @@ h1{
   color:#fff;
   background-color: #98bf21;
   display:block;
-  width:125px;
+  width:300px;
   text-align:center;
   text-decoration:none;
   padding:4px 0;
