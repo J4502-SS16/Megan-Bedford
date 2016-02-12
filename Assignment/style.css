@@ -19,6 +19,9 @@ h1{
   font-size:25px;
   padding-top: 25px;
 }
+p{
+  font-weight: bold;
+}
  #main{
  background-colog: #CCFFFF;
  width:500px;
