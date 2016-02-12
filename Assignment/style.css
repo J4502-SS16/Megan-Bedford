@@ -28,7 +28,7 @@ h2{
   text-align: center;
 }
  #main{
- background-colog: #CCFFFF;
+ background-color: #CCFFFF;
  width:500px;
  float:left;
  }
@@ -46,14 +46,14 @@ h2{
  }
 
  #container{
- backgound-color:  #e37676;
+ backgound-color: #e37676;
  width:750px;
  margin:0 auto;
  }
 
  #nav{
  list-style-type:none;
- margin:0
+ margin:0;
  padding:0;
  }
 
