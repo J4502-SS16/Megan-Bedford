@@ -26,7 +26,7 @@ h1{
  }
 
  #sidebar{
- /*background-color:  #ddd;*/
+ background-color:  #ddd;*/
  width:200px;
  float:right;
  }
@@ -38,7 +38,7 @@ h1{
  }
 
  #container{
- /*backgound-color:  #e37676;*/
+ backgound-color:  #e37676;*/
  width:750px;
  margin:0 auto;
  }
