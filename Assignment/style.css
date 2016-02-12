@@ -24,6 +24,9 @@ p{
   color: red;
   text-align: center;
 }
+h2{
+  text-align: center;
+}
  #main{
  background-colog: #CCFFFF;
  width:500px;
